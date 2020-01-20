@@ -14,4 +14,4 @@ notifications:
 
 
 install: true
-script: ./mvnw test --show-version --batch-mode --errors
+script: ./mvnw test --batch-mode
